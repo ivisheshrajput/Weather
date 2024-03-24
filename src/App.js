@@ -40,7 +40,7 @@ function App() {
                 Your browser does not support the video tag.
               </video>
               <p className="-mt-8 ml-2 font-semibold text-lg text-white">
-                Enter the City to For Weather Information
+                Enter the City for Weather Information
               </p>
             </div>
           </div>
